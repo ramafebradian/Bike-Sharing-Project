@@ -60,3 +60,8 @@ cd Dashboard
 ```
 streamlit run dashboard.py
 ```
+5. or Go to streamlit app
+
+```
+https://ramafebradian-bike-sharing.streamlit.app/
+```
